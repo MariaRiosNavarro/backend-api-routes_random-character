@@ -1,4 +1,4 @@
-# [Deployment](https://mariariosnavarro.github.io/backend-api-routes_random-character/)
+# [Vercel Deployment](https://backend-api-routes-random-character-rho.vercel.app/)
 
 <div>
 <img src="./public/readme1.png" width ="250px">
